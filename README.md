@@ -1,4 +1,4 @@
-# Hi, I'm Chris Nguu 👋
+# Hi, I'm Christopher Nguu 👋
 
 **Christopher Nguu Kioko** · Data Scientist · Nairobi, Kenya
 

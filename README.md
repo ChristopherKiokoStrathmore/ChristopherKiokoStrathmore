@@ -10,6 +10,18 @@ I'm a data scientist in Nairobi doing an MSc in Data Science at Strathmore Unive
 - 🛠️ **Builder**: full-stack products for Kenyan clients and teams (Next.js, React, Supabase, Django)
 - 🌍 **Based in**: Nairobi, Kenya
 
+## Telecom customer analytics series
+
+An independent portfolio series built alongside my MSc in Data Science, using public and labelled synthetic data. It is unrelated to the client builds listed below.
+
+| Project | What it does | Key result |
+|---|---|---|
+| [**telco-churn-nba-engine**](https://github.com/ChristopherKiokoStrathmore/telco-churn-nba-engine) | churn and next-best-action scoring API (FastAPI, Docker) on the public IBM Telco dataset | ROC-AUC 0.846, top-decile lift 2.81 |
+| [**responsible-ai-pack**](https://github.com/ChristopherKiokoStrathmore/responsible-ai-pack) | model card, SHAP, Fairlearn fairness audit, drift monitoring and CI metric gates for the churn model | parity gap 0.22 for senior citizens surfaced and disclosed |
+| [**omnichannel-care-analytics**](https://github.com/ChristopherKiokoStrathmore/omnichannel-care-analytics) | care journey KPIs and friction analysis | synthetic 4,000-journey log plus public Bitext intent taxonomy |
+| [**care-automation-roi**](https://github.com/ChristopherKiokoStrathmore/care-automation-roi) | automation cost-to-serve model, 6 scenarios with payback and sensitivity | 8.5-month base payback (illustrative inputs) |
+| [**digital-care-roadmap**](https://github.com/ChristopherKiokoStrathmore/digital-care-roadmap) | Now/Next/Later roadmap, illustrative OKRs and backlog | sequences the series |
+
 ## 🔬 Research & Interests
 
 - **Trustworthy ML in production**: training/serving skew, leakage, and routing uncertain predictions to human review
@@ -20,7 +32,7 @@ I'm a data scientist in Nairobi doing an MSc in Data Science at Strathmore Unive
 ## 🌐 Portfolio & Links
 
 - 💼 **Data science portfolio:** [chris-nguu.vercel.app](https://chris-nguu.vercel.app)
-- 💻 **GitHub:** [ChristopherKiokoStrathmore](https://github.com/ChristopherKiokoStrathmore) (projects) · [ChristopherKioko](https://github.com/ChristopherKioko)
+- 💻 **GitHub:** [ChristopherKiokoStrathmore](https://github.com/ChristopherKiokoStrathmore) (projects)
 - 🎵 Away from code I make gospel music as **Chris Clave**: [chris-clave.vercel.app](https://chris-clave.vercel.app)
 
 ## 🚀 Featured Projects

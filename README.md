@@ -1,8 +1,8 @@
-<img src="assets/banner.png" alt="Christopher Nguu Kioko, Data Scientist, Nairobi, Kenya" width="100%">
+<img src="assets/banner.png" alt="Christopher Nguu, Data Scientist, Nairobi, Kenya" width="100%">
 
 # Hi, I'm Christopher Nguu 👋
 
-**Christopher Nguu Kioko** · Data Scientist · Nairobi, Kenya
+**Christopher Nguu** · Data Scientist · Nairobi, Kenya
 
 I'm a data scientist in Nairobi doing an MSc in Data Science at Strathmore University. I care most about the part of machine learning that happens after the notebook: leak-free pipelines, one shared preprocessing path for training and serving, honest metrics, and models that send low-confidence predictions to a human. My projects sit on East African problems (mobile-money fraud, telecom customer care, county-level health capacity), and I ship them as working APIs and apps rather than leaving them as slides.
 

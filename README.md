@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Christopher Nguu Kioko, Data Scientist, Nairobi, Kenya" width="100%">
+
 # Hi, I'm Christopher Nguu 👋
 
 **Christopher Nguu Kioko** · Data Scientist · Nairobi, Kenya
@@ -9,6 +11,39 @@ I'm a data scientist in Nairobi doing an MSc in Data Science at Strathmore Unive
 - 🔭 **Currently building**: the *Nairobi Fintech Fraud Flag API* for the UNECA African AI Innovators showcase
 - 🛠️ **Builder**: full-stack products for Kenyan clients and teams (Next.js, React, Supabase, Django)
 - 🌍 **Based in**: Nairobi, Kenya
+
+## Activity
+
+<table>
+  <tr>
+    <td valign="top" width="34%">
+      <img alt="GitHub stats for ChristopherKiokoStrathmore" src="https://github-readme-stats.vercel.app/api?username=ChristopherKiokoStrathmore&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E&amp;border_color=C8962E" width="100%">
+    </td>
+    <td valign="top" width="33%">
+      <img alt="Top languages for ChristopherKiokoStrathmore" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherKiokoStrathmore&amp;layout=compact&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E&amp;border_color=C8962E" width="100%">
+    </td>
+    <td valign="top" width="33%">
+      <img alt="Contribution streak for ChristopherKiokoStrathmore" src="https://streak-stats.demolab.com/?user=ChristopherKiokoStrathmore&amp;background=F6F1E6&amp;border=C8962E&amp;stroke=E7DCC4&amp;ring=C8962E&amp;fire=C8962E&amp;currStreakNum=0B3D2E&amp;sideNums=14352C&amp;currStreakLabel=0B3D2E&amp;sideLabels=14352C&amp;dates=5E6B62&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E" width="100%">
+    </td>
+  </tr>
+</table>
+
+## Tools in the public repos
+
+Badges only where a dependency file, a workflow, or the language breakdown shows the tool.
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-0B3D2E?style=flat-square&amp;logo=python&amp;logoColor=C8962E">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-0B3D2E?style=flat-square&amp;logo=pandas&amp;logoColor=C8962E">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0B3D2E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=C8962E">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0B3D2E?style=flat-square&amp;logo=fastapi&amp;logoColor=C8962E">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0B3D2E?style=flat-square&amp;logo=tensorflow&amp;logoColor=C8962E">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B3D2E?style=flat-square&amp;logo=nextdotjs&amp;logoColor=C8962E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B3D2E?style=flat-square&amp;logo=typescript&amp;logoColor=C8962E">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0B3D2E?style=flat-square&amp;logo=docker&amp;logoColor=C8962E">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0B3D2E?style=flat-square&amp;logo=githubactions&amp;logoColor=C8962E">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0B3D2E?style=flat-square&amp;logoColor=C8962E">
+</p>
 
 ## Telecom customer analytics series
 
@@ -36,6 +71,85 @@ An independent portfolio series built alongside my MSc in Data Science, using pu
 - 🎵 Away from code I make gospel music as **Chris Clave**: [chris-clave.vercel.app](https://chris-clave.vercel.app)
 
 ## 🚀 Featured Projects
+
+Portfolio cards for the repos below. Each image links to the repository.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/telco-churn-nba-engine"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/telco-churn-nba-engine/main/assets/social-preview.png" alt="telco-churn-nba-engine" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/telco-churn-nba-engine"><strong>telco-churn-nba-engine</strong></a>
+      <br>
+      Churn model, add-on propensity models, a CLV proxy, and a next-best-action rule table, served one customer at a time through a FastAPI POST /score endpoint in Docker.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/omnichannel-care-analytics"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/omnichannel-care-analytics/main/assets/social-preview.png" alt="omnichannel-care-analytics" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/omnichannel-care-analytics"><strong>omnichannel-care-analytics</strong></a>
+      <br>
+      Journey KPI pipeline (funnel, time to first response, resolution by channel and intent, directly-follows graph, Sankey and friction heatmap) and a profile of the public Bitext telco intent taxonomy.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/responsible-ai-pack"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/responsible-ai-pack/main/assets/social-preview.png" alt="responsible-ai-pack" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/responsible-ai-pack"><strong>responsible-ai-pack</strong></a>
+      <br>
+      Governance for the pinned churn model: TreeSHAP explanations, Fairlearn fairness checks, a PSI drift baseline, model cards, a NIST AI RMF checklist, and CI metric gates.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/care-automation-roi"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/care-automation-roi/main/assets/social-preview.png" alt="care-automation-roi" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/care-automation-roi"><strong>care-automation-roi</strong></a>
+      <br>
+      Configurable cost-benefit model: editable assumptions, 6 scenarios, cost to serve, payback, year-1 ROI, and a sensitivity tornado. Illustrative inputs.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/digital-care-roadmap"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/digital-care-roadmap/main/assets/social-preview.png" alt="digital-care-roadmap" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/digital-care-roadmap"><strong>digital-care-roadmap</strong></a>
+      <br>
+      A Now / Next / Later product roadmap that sequences the four earlier projects, with OKRs and a value-versus-effort backlog.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/DSA-8401---CREDIT-LAB"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/DSA-8401---CREDIT-LAB/main/assets/social-preview.png" alt="DSA-8401---CREDIT-LAB" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/DSA-8401---CREDIT-LAB"><strong>DSA-8401---CREDIT-LAB</strong></a>
+      <br>
+      POST /score turns synthetic mobile-money and thin-file aggregates into a fraud probability, a risk band, and up to three short reasons.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/MULTI-HEAD-"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/MULTI-HEAD-/master/assets/social-preview.png" alt="MULTI-HEAD-" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/MULTI-HEAD-"><strong>MULTI-HEAD-</strong></a>
+      <br>
+      Triages code-switched Kenyan telecom care messages on issue, sentiment, and urgency, and holds a ticket for a person when the issue head is not confident enough to auto-route.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/handwritten-digit-recognition-api"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/handwritten-digit-recognition-api/main/assets/social-preview.png" alt="handwritten-digit-recognition-api" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/handwritten-digit-recognition-api"><strong>handwritten-digit-recognition-api</strong></a>
+      <br>
+      A fully-connected neural network trained on MNIST, served as a live REST API with a draw-a-digit web front end.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ChristopherKiokoStrathmore/SLIDES"><img src="https://raw.githubusercontent.com/ChristopherKiokoStrathmore/SLIDES/main/assets/social-preview.png" alt="SLIDES" width="100%"></a>
+      <br>
+      <a href="https://github.com/ChristopherKiokoStrathmore/SLIDES"><strong>SLIDES</strong></a>
+      <br>
+      An interactive map that triages Kenya's 47 counties by the cumulative attack rate at which their surge inpatient capacity is exhausted.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ### Data Science & ML
 

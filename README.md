@@ -17,7 +17,7 @@ I'm a data scientist in Nairobi doing an MSc in Data Science at Strathmore Unive
 <table>
   <tr>
     <td valign="top" width="34%">
-      <img alt="GitHub stats for ChristopherKiokoStrathmore" src="https://github-readme-stats.vercel.app/api?username=ChristopherKiokoStrathmore&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E&amp;border_color=C8962E" width="100%">
+      <img alt="GitHub stats for ChristopherKiokoStrathmore" src="https://github-readme-stats.vercel.app/api?username=ChristopherKiokoStrathmore&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_rank=true&amp;custom_title=Christopher%20Nguu%27s%20GitHub%20Stats&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E&amp;border_color=C8962E" width="100%">
     </td>
     <td valign="top" width="33%">
       <img alt="Top languages for ChristopherKiokoStrathmore" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherKiokoStrathmore&amp;layout=compact&amp;bg_color=F6F1E6&amp;title_color=0B3D2E&amp;text_color=14352C&amp;icon_color=C8962E&amp;border_color=C8962E" width="100%">
